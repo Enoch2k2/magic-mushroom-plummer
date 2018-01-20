@@ -1,0 +1,22 @@
+{
+  "name": "magic-mushroom-plummer",
+  "version": "1.0.0",
+  "description": "##### A simple platformer based off of mario.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enoch2k2/magic-mushroom-plummer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enoch2k2/magic-mushroom-plummer/issues"
+  },
+  "homepage": "https://github.com/Enoch2k2/magic-mushroom-plummer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
